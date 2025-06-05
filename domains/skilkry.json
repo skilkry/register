@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "skilkry"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "value": "skilkry.github.io"
+    }
+  ]
+}
+
